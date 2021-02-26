@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rishi-AP/adapter-change_management.git"
+    "url": "git+https://github.com/EuniceAmirtharajan/adapter-change_management.git"
   },
   "author": "ACME",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/Rishi-AP/adapter-change_management/issues"
+    "url": "https://github.com/EuniceAmirtharajan/adapter-change_management/issues"
   },
-  "homepage": "https://github.com/Rishi-AP/adapter-change_management#readme",
+  "homepage": "https://github.com/EuniceAmirtharajan/adapter-change_management#readme",
   "dependencies": {
     "request": "^2.88.2"
   }
